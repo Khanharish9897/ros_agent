@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic-settings
+python-dotenv
+langchain
+langchain-core
+langchain-groq
+langchain-mongodb
+pymongo[srv]
+langchain-mongodb 
+pymongo
+langgraph-checkpoint-mongodb 
